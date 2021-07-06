@@ -22,8 +22,8 @@ My intention with this is to be able to learn and create study plans. Not a sing
 
 - [Study Plan](#study-plan)
 - [Algorithms](#algorithms)
-  - [Sort](#sort)
   - [Search](#search)
+  - [Sort](#sort)
 - [Data Structures](#data-structures)
 - [Problem Solving Techniques](#problem-solving-techniques)
 - [Concepts](#concepts)
