@@ -1,7 +1,7 @@
 <details>
 <summary>translations</summary>
 
-- [Português do Brasil](README-pt.md)
+- [Português do Brasil](translations/README-pt.md)
 </details>
 
 # Mastering Code Challenges
